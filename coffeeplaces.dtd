@@ -1,0 +1,13 @@
+<!ELEMENT CoffeePlaces (CoffeePlace+, Grade*)>
+<!ELEMENT CoffeePlace (placeName, price, averageGrade, location, offer*, coffeCard)>
+<!ELEMENT placeName (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT averageGrade (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT offer (#PCDATA)>
+<!ELEMENT coffeCard EMPTY>
+<!ATTLIST coffeCard card ( yes | no | unknown ) #REQUIRED >
+<!ELEMENT Grade (placeName, averageGrade, coffeeGrade, priceGrade, atmosphereGrade)>
+<!ELEMENT coffeeGrade (#PCDATA)>
+<!ELEMENT priceGrade (#PCDATA)>
+<!ELEMENT atmosphereGrade (#PCDATA)>

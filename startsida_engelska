@@ -1,0 +1,13 @@
+<?xml-stylesheet type="text/xsl" href="coffeeplaces.xsl"?>
+<!DOCTYPE CoffeePlaces SYSTEM "http://course-dm2517-ht18.csc.kth.se/~simfors/DM2517/project/CoffeePlaces.dtd">
+
+<coffeeplaces>
+    <header>The Big Coffee Adventure!!!!</header>
+    <subheader>With Joe and Moe!!!</subheader>
+    <price>Price small coffee:</price>
+    <grade>Grade:</Grade>
+    <login>
+        <loginheader>Login</loginheader>
+        <description>If your either Joe, Moe or Boe you can sign in here</description>
+    </login>
+</coffeeplaces>

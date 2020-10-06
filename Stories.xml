@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Stories.xsl"?>
+<!DOCTYPE CoffeePlaces SYSTEM "http://course-dm2517-ht18.csc.kth.se/~simfors/DM2517/project/coffeeplaces.dtd">
+
+
+<CoffeePlaces>
+    <CoffeePlace>
+        <placeName>Stories</placeName>
+        <price>15</price>
+        <location>In the library</location>
+        <offer>Kaffe+Bulle 15 kr</offer>
+        <coffeeCard card="no"></coffeeCard>
+    </CoffeePlace>
+
+    <CoffeePlace>
+        <placeName>THS Cafe</placeName>
+        <price>9</price>
+        <location>Nymble</location>
+        <coffeCard card="no"></coffeCard>
+    </CoffeePlace>
+
+    <CoffeePlace>
+       <placeName>Espresso House</placeName>
+        <price>28</price>
+        <location>Vid tuben</location>
+        <offer>Dubbelt så stor kaffe 5kr extra</offer>
+        <coffeCard card="yes"></coffeCard>
+    </CoffeePlace>
+
+    <CoffeePlace>
+       <placeName>Pressbyrån</placeName>
+        <price>10</price>
+        <location>Vid tuben</location>
+        <coffeCard card="yes"></coffeCard>
+    </CoffeePlace>
+
+    <CoffeePlace>
+       <placeName>7-Eleven</placeName>
+        <price>13</price>
+        <location>Drottning Kristinas väg 9</location>
+        <offer>Kaffe+Bulle 15 kr</offer>
+        <coffeCard card="yes"></coffeCard>
+    </CoffeePlace>
+
+    <CoffeePlace>
+       <placeName>META</placeName>
+        <price>0</price>
+        <location>Osquares Backe 21</location>
+        <coffeCard card="no"></coffeCard>
+    </CoffeePlace>
+
+    <CoffeePlace>
+       <placeName>The Coffice</placeName>
+        <price>10</price>
+        <location> Drottning Kristinas väg 36</location>
+        <coffeCard card="yes"></coffeCard>
+    </CoffeePlace>
+
+
+    <CoffeePlace>
+       <placeName>Q</placeName>
+        <price>10</price>
+        <location>Malvinas Väg 4</location>
+        <coffeCard card="no"></coffeCard>
+    </CoffeePlace>
+
+    <CoffeePlace>
+       <placeName>KTH Entré</placeName>
+        <price>15</price>
+        <location>Drottning Kristinas väg 4</location>
+        <coffeCard card="no"></coffeCard>
+    </CoffeePlace>
+
+    <Grade>
+        <placeName>Stories</placeName>
+        <uniqueAvGrade>3.3</uniqueAvGrade>
+        <coffeeGrade>4</coffeeGrade>
+        <priceGrade>2</priceGrade>
+        <atmosphereGrade>4</atmosphereGrade>
+    </Grade>
+
+    <Grade>
+        <placeName>THS Cafe</placeName>
+        <uniqueAvGrade>4.3</uniqueAvGrade>
+        <coffeeGrade>3</coffeeGrade>
+        <priceGrade>5</priceGrade>
+        <atmosphereGrade>5</atmosphereGrade>
+    </Grade>
+
+
+    <Grade>
+        <placeName>Espresso House</placeName>
+        <uniqueAvGrade>2.6</uniqueAvGrade>
+        <coffeeGrade>4</coffeeGrade>
+        <priceGrade>1</priceGrade>
+        <atmosphereGrade>2</atmosphereGrade>
+    </Grade>
+
+    <Grade>
+        <placeName>Pressbyrån</placeName>
+        <uniqueAvGrade>2.6</uniqueAvGrade>
+        <coffeeGrade>3</coffeeGrade>
+        <priceGrade>3</priceGrade>
+        <atmosphereGrade>2</atmosphereGrade>
+    </Grade>
+
+    <Grade>
+        <placeName>7-Eleven</placeName>
+        <uniqueAvGrade>2.3</uniqueAvGrade>
+        <coffeeGrade>3</coffeeGrade>
+        <priceGrade>2</priceGrade>
+        <atmosphereGrade>2</atmosphereGrade>
+    </Grade>
+
+    <Grade>
+        <placeName>META</placeName>
+        <uniqueAvGrade>3.6</uniqueAvGrade>
+        <coffeeGrade>2</coffeeGrade>
+        <priceGrade>5</priceGrade>
+        <atmosphereGrade>4</atmosphereGrade>
+    </Grade>
+
+    <Grade>
+        <placeName>The Coffice</placeName>
+        <uniqueAvGrade>3.6</uniqueAvGrade>
+        <coffeeGrade>4</coffeeGrade>
+        <priceGrade>4</priceGrade>
+        <atmosphereGrade>3</atmosphereGrade>
+    </Grade>
+
+    <Grade>
+        <placeName>Q</placeName>
+        <uniqueAvGrade>3.3</uniqueAvGrade>
+        <coffeeGrade>4</coffeeGrade>
+        <priceGrade>4</priceGrade>
+        <atmosphereGrade>2</atmosphereGrade>
+    </Grade>
+
+    <Grade>
+        <placeName>KTH Entré</placeName>
+        <uniqueAvGrade>2.6</uniqueAvGrade>
+        <coffeeGrade>3</coffeeGrade>
+        <priceGrade>2</priceGrade>
+        <atmosphereGrade>3</atmosphereGrade>
+    </Grade>
+
+</CoffeePlaces>
